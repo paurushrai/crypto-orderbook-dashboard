@@ -4,6 +4,3 @@
 2. [Tailwind CSS](https://tailwindcss.com/)
 3. [d3](https://d3js.org/)
 4. [redix-ui](https://radix-ui.com/)
-
-# Website link -
-[crypto-orderbook-dashboard](https://crypto-orderbook-dashboard.netlify.app/)
